@@ -1,4 +1,6 @@
-# auto_fix_cran_notes
+# autofix
+
+This is the very early stages of an R package to address <https://github.com/r-devel/r-dev-day/issues/132>, although this work has now been superseded by <https://github.com/r-devel/track-lost-braces>.
 
 ## Overall Workflow
 
